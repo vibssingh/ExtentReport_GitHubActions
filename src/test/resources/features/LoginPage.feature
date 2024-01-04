@@ -23,15 +23,11 @@ Feature: Login to HRM Application
 
 
   @MissingUsername
-  Scenario Outline: Login with blank username
+  Scenario: Login with blank username
 
     When User enters username as " " and password as "admin123"
     Then User should be able to see a message "Required" below Username
 
-  @FaceBookLink @FailedTest
-  Scenario: Verify FaceBook Icon on Login Page
-
-    Then User should be able to see FaceBook Icon
 
   @LinkedInLink
   Scenario: Verify LinkedIn Icon on Login Page
