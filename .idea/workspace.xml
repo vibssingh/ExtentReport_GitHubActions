@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="353800a4-2df3-49ba-8962-f7cf7c5bb7de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/actions/ForgotPasswordActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/actions/HomePageActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/actions/LoginPageActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/locators/ForgotPasswordLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/locators/HomePageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/locators/LoginPageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/utils/HelperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/definitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/definitions/LoginPageDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/runner/CucumberRunnerTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/extent.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/LoginPage.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/utils/HelperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/utils/HelperClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
